@@ -1,0 +1,14 @@
+/* Add this to your Login.css or relevant CSS file */
+.login-container p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.login-container a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+.login-container a:hover {
+    text-decoration: underline;
+}

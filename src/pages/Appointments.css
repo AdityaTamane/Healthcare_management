@@ -1,0 +1,20 @@
+/* appointments.css */
+.appointments-container {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.appointment {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.appointment:last-child {
+    border-bottom: none;
+}
+
+.appointment h4 {
+    margin-bottom: 10px;
+}
